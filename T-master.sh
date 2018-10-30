@@ -56,6 +56,6 @@ mv /$HOME/Terminal-Master/Master/bash.bashrc /data/data/com.termux/files/usr/etc
             echo '     successfuly installed    ' | lolcat
            
 
-rm -rf /$HOME/Terminal-Master
+rm -rf /data/data/com.termux/files/home/Terminal-Master
  echo ' plz restart Termux and check ur terminal' | lolcat -a -d 50 -s 12
 sleep 5
