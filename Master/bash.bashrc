@@ -14,6 +14,7 @@ command_not_found_handle() {
 
  
 cowsay -f eyes Termux Expert | lolcat 
+figlet Expert | lolcat
 echo ________Welcome______ | lolcat -a -d 50 -s 14
 
 shopt -s autocd
