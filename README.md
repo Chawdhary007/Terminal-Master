@@ -1,10 +1,10 @@
 # Terminal-Master
 ``
-screen shot
+ # screen shot
 ``
-![screen][Screenshot_2018-10-30-20-08-01-29.png]
+![screen][https://www.mediafire.com/view/eaxulotftj4h5x5]
 
-usage 
+# usage 
 ``
 chmod +x master.sh
 ./master.sh
