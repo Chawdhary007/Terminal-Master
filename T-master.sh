@@ -41,7 +41,7 @@ pkg install cowsay
                   echo '.-.-.-.-...Terminal is modifyng.-.-.-.-.-.' | lolcat -a -d 50 -s 15
            
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
-mv /$HOME/Terminal-Master/Expert/bash.bashrc /data/data/com.termux/files/usr/etc
+mv /$HOME/Terminal-Master/Master/bash.bashrc /data/data/com.termux/files/usr/etc
          
 
 
