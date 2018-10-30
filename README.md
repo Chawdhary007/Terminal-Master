@@ -1,7 +1,7 @@
 # Terminal-Master
 
  # screen shot
-![screen](https://www.mediafire.com/view/eaxulotftj4h5x5)
+![screen](/Master/Screenshot_2018-10-30-20-08-01-29.png)
 
 # usage 
 ```
