@@ -1,4 +1,5 @@
-
+pkg install gem
+gem install lolcat
 
            echo  '    welcome To the Terminal Master Tool' | lolcat -a -d 50 -s 8
              
@@ -33,8 +34,6 @@ apt update
  pkg install python2 
 pip install --upgrade pip
  pip2 install mechanize
-pip install gem
-gem install lolcat
 pkg install figlet
 pkg install cowsay
 
