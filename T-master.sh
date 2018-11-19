@@ -1,7 +1,12 @@
 pkg install gem
 gem install lolcat
-
-           echo  '    welcome To the Terminal Master Tool' | lolcat -a -d 50 -s 8
+pkg install figlet
+pkg install cowsay
+ apt update
+ apt upgrade
+ pkg install python
+ pkg install python2
+   echo  '    welcome To the Terminal Master Tool' | lolcat -a -d 50 -s 8
              
 echo '      /---------------------------/-'| lolcat
 echo '     /___________________________/!\'| lolcat
@@ -28,14 +33,10 @@ echo ' /C=_____________________/_/' | lolcat
 
 echo '_______________checking requiremenmts plz wait__________' | lolcat  -a -d 50 -s 9.0
 echo  '_______installing missing packjes______' | lolcat -a -d 50 -s 10.0 
-apt update
- apt upgrade
- pkg install python
- pkg install python2 
+ 
 pip install --upgrade pip
  pip2 install mechanize
-pkg install figlet
-pkg install cowsay
+
 
                   echo '.-.-.-.-...Terminal is modifyng.-.-.-.-.-.' | lolcat -a -d 50 -s 15
            
@@ -55,6 +56,5 @@ mv /$HOME/Terminal-Master/Master/bash.bashrc /data/data/com.termux/files/usr/etc
             echo '     successfuly installed    ' | lolcat
            
 
-rm -rf /data/data/com.termux/files/home/Terminal-Master
  echo ' plz restart Termux and check ur terminal' | lolcat -a -d 50 -s 12
 sleep 5
